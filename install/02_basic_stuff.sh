@@ -18,6 +18,7 @@ PACKAGES=(
   "fzf"
   "ripgrep"
   "bat"
+  "fontconfig"
   "npm"
 )
 
